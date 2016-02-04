@@ -3,6 +3,7 @@
 # author: Alberto Lumbreras
 #########################################
 library(mvtnorm)
+library(coda)
 
 # Parameters of a multivarite gaussian
 mu1 <- 0
